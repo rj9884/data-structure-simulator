@@ -1,10 +1,11 @@
 # 📊 Data Structures Simulator
 
 Interactive visualizer for Stack, Queue, and Linked List with a clean dark UI.
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen)](https://data-structure-simulator-frontend.onrender.com)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/rj9884/data-structure-simulator/blob/main/LICENSE)
+
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen)](https://data-structure-simulator-frontend.onrender.com)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/rj9884/data-structure-simulator/blob/main/LICENSE)
 
 ## 📸 Screenshots
 - Stack: `assets/stack.png`
