@@ -2,8 +2,8 @@
 
 Interactive visualizer for Stack, Queue, and Linked List with a clean dark UI.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](YOUR_DEMO_LINK_HERE)
-[![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
+[![Live Demo](https://data-structure-simulator-frontend.onrender.com)
+[![License](https://github.com/rj9884/data-structure-simulator/blob/main/LICENSE)
 
 ---
 
@@ -72,4 +72,4 @@ struct-simulator/
 
 
 ## 📄 License
-ISC
+MIT License. See `LICENSE` for details.
